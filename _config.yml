@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriele Franch / Personal Website"
+title                    : "Gabriele Franch"
 title_separator          : "-"
 name                     : &name "Gabriele Franch"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gabriele Franch"
   avatar           : "profile.png"
   bio              : "Senior Researcher, Data Scientits and Deep learning enthusiast"
   location         : "Trento (IT)"
