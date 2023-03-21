@@ -2,3 +2,4 @@ title	type	url_slug	venue	date	location	talk_url	description
 Ensemble precipitation nowcasting by combination of generative and transformer deep learning models	Talk	egu23	EGU General Assembly 2023	2023-04-28	Vienna, Austria	https://doi.org/10.5194/egusphere-egu23-15153	This work introduces a novel deep-learning method for generating realistic ensembles nowcast of radar-based precipitation at a five-minute time resolution for the next 60 minutes and longer.
 Precipitation nowcasting by the combination of generative and transformer deep learning models	Talk	erad2022	ERAD 2022	2022-09-02	Locarno, Switzerland	https://www.erad2022.ch/bookofabstracts2022	
 Progetto MIARAD: nowcasting radar con deep learning a scala regionale	Talk	radmet2021	RadMet2021.IT	2021-07-06	Florence, Italy	https://youtu.be/q1PDgT8sqQo?t=2867	
+Pacchettizzare applicazioni Python in un singolo file binario	Talk	pycon9	Pycon.IT	2018-04-21	Florence, Italy	https://youtu.be/OsyG2WQ_5V8	
