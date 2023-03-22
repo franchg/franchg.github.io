@@ -13,7 +13,8 @@ Education
 ======
 * M.S. in Computer Science, University of Trento, 2016
 * Ph.D in Computer Science, University of Trento, 2021
-<!-- 
+
+<!---
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -24,7 +25,8 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+  * Supervisor: Professor Hub
+-->
   
 Skills
 ======
