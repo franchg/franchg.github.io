@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* M.S. in Computer Science, University of Trento, 2016
+* Ph.D in Computer Science, University of Trento, 2021
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -25,16 +24,34 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Scientific Programming
+  * Numpy / Scipy / Xarray
+  * Dask / Ray
+  * Jupyter
+  * Voila dashboard
+* Deep Learning
+  * Pytorch / Lightning
+  * WanDB / Tensorborad
+  * Hydra
+  * Optuna
+* Spatial data analytics and GIS
+  * PostGIS
+  * GRASS / QGIS / GDAL
+  * Eccodes / Cfgrib
+* DevOps and MLOps
+  * Backend web developement (Django / Flask / FastAPI)
+  * Microsevices with Docker / docker-compose / Swarm
+  * Proficient in PostgresSQL / PostGIS 
+  * Git
+  * GitLab CI/CD
+  * Linux system administration (SystemD, bash scripting)
+  * Monitoring (Sentry, Grafana)
+* HPC
+  * Slurm
 
 Publications
 ======
